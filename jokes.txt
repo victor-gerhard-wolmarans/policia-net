@@ -1,8 +1,1 @@
-begin;
-1;
-Why did the cow;
-want to cross the road?;
-;
-Because he wanted to go;
-to the moooooooovies!;
-end;
+begin;1;Why did the cow;want to cross the road?;;Because he wanted to go;to the moooooooovies!;end;
