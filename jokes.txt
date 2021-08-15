@@ -1,1 +1,1 @@
-{"jokes":[{"1":"Why did the cow want","2":"to cross the road?","3":"Because he wanted to","4":"get to the udder side!","lines":"4"},"b"],"total":2}
+{"jokes":[{"1":"Why did the cow want","2":"to cross the road?","3":"Because he wanted to","4":"get to the udder side!","lines":"4"},{"1":"Why did the cow","2":"cross the road?","3":"Because he wanted to","4":"go to the moooooooovies!","lines":"4"}],"total":2}
