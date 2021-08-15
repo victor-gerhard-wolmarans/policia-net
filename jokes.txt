@@ -1,40 +1,12 @@
-{"jokes":[
+begin;
+1;
 
 
 
-{"1":"Why did the cow want",
-"2":"to cross the road?",
-"3":"Because he wanted to",
-"4":"get to the udder side!",
-"lines":"4"},
+Why did the cow;
+want to cross the road?;
+;
+Because he wanted to go;
+to the moooooooovies!;
 
-{"1":"Why did the cow",
-"2":"cross the road?",
-"3":"Because he wanted to",
-"4":"go to the moooooooovies!",
-"lines":"4"},
-
-{"1":"Why do pirates not know the alphabet?"
-,"2":"They always get stuck at C!",
-"lines":"2"},
-
-{"1":"Why did the student eat his homework?",
-"2":"Because the teacher told him",
-"3":"it was a piece of cake!","lines":"3"},
-
-{"1":"Why did the kid cross the playground?",
-"2":"To get to the other slide.","lines":"2"},
-
-{"1":"What is a witch’s",
-"2":"favorite subject in school?",
-"3":"Spelling!",
-
-{"1":"What did one volcano say to the other?",
-"2":"I lava you!","lines":"2"},
-
-
-
-
-"lines":"3"}
-
-],"total":"5"}
+end;
