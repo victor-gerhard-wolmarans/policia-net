@@ -1,1 +1,1 @@
-{"a":{"1":"Hey everyone!","2":"Everything is working smoothly.","3":"I hope you will enjoy","4":"the website!","5":"","6":"Oh and also I just want to","7":"say I can make you a mod if you want","8":"me to."},"lines":"8"}
+{"a":{"1":"Hey everyone!","2":"Everything is working smoothly.","3":"I hope you will enjoy","4":"the website!","5":"","6":"Okay so we have some bugs...","7":"But I am busy fixing the bugs!"},"lines":"7"}
