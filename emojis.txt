@@ -1,6 +1,11 @@
 {"emojis":
+
 {
 "1":{"name":"pizza","character":"🍕"}
+"2":{"name":"cash","character":"💰"}
+"3":{"name":"amazed","character":"😲"}
+"4":{"name":"ghost","character":"👻"}
+"5":{"name":"poop","character":"💩"}
 
 
 }
