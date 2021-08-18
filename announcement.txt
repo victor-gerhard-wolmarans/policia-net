@@ -1,1 +1,1 @@
-{"a":{"1":"Hey everyone!","2":"Everything is working smoothly.","3":"I hope you will enjoy","4":"the website!","5":"","6":"So Benno, sorry for not answering","7":"your message. But thanks for sending!"},"lines":"7"}
+{"a":{"1":"WOOOOOOHOOOOOOOOOOO!","2":"Now we have WIIIDE SCREEN!"},"lines":"2"}
