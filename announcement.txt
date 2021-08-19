@@ -1,1 +1,1 @@
-{"a":{"1":"WOOOOOOHOOOOOOOOOOO!","2":"Now we have WIIIDE SCREEN!"},"lines":"2"}
+{"a":{"1":"There is some","2":"bugs i need to fix D: "},"lines":"2"}
